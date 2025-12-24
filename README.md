@@ -1,2 +1,38 @@
-# cybersecurity-portfolio
-portfolio for intern application.
+
+
+# Cybersecurity Portfolio (intern)
+
+ About Me
+I am a beginner cybersecurity student seeking an internship. 
+I am building foundational cybersecurity skills through hands-on labs 
+and ethical learning in controlled environments.
+
+ Areas of Interest
+- Cybersecurity fundamentals
+- Network security
+- Defensive security (Blue Team)
+
+ Skills (Currently Learning)
+- Cybersecurity basics
+- Networking fundamentals
+- Linux fundamentals
+- Security awareness
+
+ Tools (Learning)
+- Linux
+- TryHackMe
+- Wireshark
+- Nmap
+
+ Projects
+- Linux Security Basics (In Progress)
+- Network Security Basics (Planned)
+- Vulnerability Scanning (Labs Only – Planned)
+
+ Labs & Practice
+- TryHackMe – Beginner Path (In Progress)
+
+ Ethics Statement
+All activities and projects in this portfolio are performed in legal, 
+ethical, and controlled lab environments for educational purposes only.
+
