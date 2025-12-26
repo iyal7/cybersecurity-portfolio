@@ -3,7 +3,7 @@
 # Cybersecurity Portfolio (intern)
 
  About Me
-I am a beginner cybersecurity student seeking an internship. 
+I am a 300lvl cybersecurity student seeking an internship. 
 I am building foundational cybersecurity skills through hands-on labs 
 and ethical learning in controlled environments.
 
