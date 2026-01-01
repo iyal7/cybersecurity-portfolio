@@ -24,13 +24,13 @@ and ethical learning in controlled environments.
 - Wireshark
 - Nmap
 
- Projects
-- Linux Security Basics (In Progress)
-- Network Security Basics (Planned)
-- Vulnerability Scanning (Labs Only – Planned)
+ ## Projects
+- [Linux Security Basics](linux-security-basics/)
+- [Network Security Basics](network-security-basics/)
+- [Vulnerability Scanning (Beginner)](vulnerability-scanning/)
 
- Labs & Practice
-- TryHackMe – Beginner Path (In Progress)
+## Labs & Practice
+- [TryHackMe Writeups](tryhackme-writeups/)
 
  Ethics Statement
 All activities and projects in this portfolio are performed in legal, 
