@@ -2,7 +2,7 @@
 
 # Cybersecurity Portfolio (intern)
 
- my Name is Iyal Aminu Abuhuraira.
+ My Name is Iyal Aminu Abuhuraira.
 I am a 300lvl cybersecurity student seeking an internship. 
 I am building foundational cybersecurity skills through hands-on labs 
 and ethical learning in controlled environments.
