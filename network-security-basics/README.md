@@ -20,15 +20,15 @@ Data sent over a network is broken into small units called packets.
 These packets travel across the network and are reassembled at the destination.
 
 ### HTTP vs HTTPS
-- HTTP sends data in plain text
-- HTTPS encrypts data to protect it from attackers
+- HTTP sends data in plain text.
+- HTTPS encrypts data to protect it from attackers.
 
 ## Why This Matters for Security
-- Attackers often target network traffic
-- Unencrypted data can be intercepted
-- Secure communication protects user data
+- Attackers often target network traffic.
+- Unencrypted data can be intercepted.
+- Secure communication protects user data.
 
 ## What I Learned
-- Basic networking terminology
-- How data travels across networks
-- The importance of encrypted communication
+- Basic networking terminology.
+- How data travels across networks.
+- The importance of encrypted communication.
