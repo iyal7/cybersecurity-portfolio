@@ -7,6 +7,11 @@ I am a 300lvl cybersecurity student seeking an internship.
 I am building foundational cybersecurity skills through hands-on labs 
 and ethical learning in controlled environments.
 
+## About This Portfolio
+This portfolio documents my learning journey into cybersecurity. 
+All projects focus on fundamental concepts, hands-on labs, 
+and ethical security practices in controlled environments.
+
  Areas of Interest
 - Cybersecurity fundamentals
 - Network security
@@ -28,6 +33,10 @@ and ethical learning in controlled environments.
 - [Linux Security Basics](linux-security-basics/)
 - [Network Security Basics](network-security-basics/)
 - [Vulnerability Scanning (Beginner)](vulnerability-scanning/)
+- Built a beginner cybersecurity portfolio covering Linux security, networking fundamentals, and vulnerability scanning.
+- Completed hands-on cybersecurity labs using TryHackMe in controlled environments.
+- Demonstrated understanding of ethical security practices and defensive security concepts.
+- Documented technical learning clearly using GitHub.
 
 ## Labs & Practice
 - [TryHackMe Writeups](tryhackme-writeups/)
